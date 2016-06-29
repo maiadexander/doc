@@ -1,0 +1,55 @@
+bf:Electronic 
+bf:Monograph
+#bf2:carrier ""
+bf:identifiedBy [bf:Urn "urn=urn:nbn:se:lnu:diva-23647"]
+bf2:languange "swe"
+bf:responsibilityStatement "Mikaela Bengtsson"
+bf:mainEntity "Mikaela Bengtsson"
+bf:title "Modiga flickor och blyga pojkar : barnlitteraturens betydelse ur ett genusperspektiv"
+bf:provisionActivity 
+bf:Publication;
+	bf:place: "Kalmar","Växsjö"
+	bf:agent:"Linnéuniversitetet, Institutionen för pedagogik, psykologi och idrottsvetenskap, PPI,"
+	bf:date "2012"
+bf:Organization: "Linnéuniversitetet, Institutionen för pedagogik, psykologi och idrottsvetenskap, PPI,"
+bf:extent: 32 s.
+bf:note "Studentuppsats"
+bf:subject: "Skåhlberg, Anette, 1964-. Kalle med klänning"
+bf:subject: "Dahlquist, Katarina, 1978-. Kalle med klänning"
+bf:subject: "Gustavsson, Per, 1962-. Så gör prinsessor"
+bf:subject: "Lindgren, Astrid, 1907-2002.t Ronja rövardotter"
+bf:subject: "Lindgren, Astrid, 1907-2002.t Bröderna Lejonhjärta"
+bf2:subject:"Barnlitteratur"
+bf2:subject:"Genus i litteraturen"
+bf2:subject:"Litteraturreception"
+#marc856u:  http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-23647
+	bf:note: "Fulltext"
+		#Inte intressant att ta med? Informatinen finns på mottagarsidan
+#marc841: Anger informationen i 008, syns enbart i webbsök.
+#marc852:
+
+#MARC
+#000		01213cam a22003017a 4500
+#001		14009082
+#003		SE-LIBR
+#005		20130417152028.0
+#007		cr |||||||||||
+#008		130417s2012 sw s 000 0 swe c
+#040	 	a Sbi
+#042	 	9 BULB
+#100	1 	a Bengtsson, Mikaela
+#245	1 0	a Modiga flickor och blyga pojkarh [Elektronisk resurs] :b barnlitteraturens betydelse ur ett genusperspektiv /c Mikaela Bengtsson
+#260	 	a Kalmar ;a Växjö :b Linnéuniversitetet, Institutionen för pedagogik, psykologi och idrottsvetenskap, PPI,c 2012
+#300	 	a 38 s.
+#500	 	a Studentuppsats
+#600	1 4	a Skåhlberg, Anette,d 1964-.t Kalle med klänning
+#600	1 4	a Dahlquist, Katarina, 1978-.t Kalle med klänning
+#600	1 4	a Gustavsson, Per,d 1962-.t Så gör prinsessor
+#600	1 4	a Lindgren, Astrid,d 1907-2002.t Ronja rövardotter
+#600	1 4	a Lindgren, Astrid,d 1907-2002.t Bröderna Lejonhjärta
+#650	 7	a Barnlitteratur2 sbiao
+#650	 7	a Genus i litteraturen2 sbiao
+#650	 7	a Litteraturreception2 sbiao
+#856	4 0	u http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-23647z Fulltext
+#841	 	5 Sbia x ab 1304174u 8 1001uu 0901128e 4
+#852	 	5 Sbib Sbih Internet
